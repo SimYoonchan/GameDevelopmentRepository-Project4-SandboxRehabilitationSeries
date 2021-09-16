@@ -1,0 +1,2 @@
+# GameDevelopmentRepository-Project4-SandboxRehabilitationSeries
+This repository is for my 4th game development project using C# and Unity. The game is called "Sandbox: Rehabilitation Series". The "Sandbox" Games are meant to be created with a variety of purposes in mind. In this case, the "Sandbox: Rehabilitation Series" is a collection of games that can aid in the rehabilitation process for a variety of physical and cognitive injuries.
